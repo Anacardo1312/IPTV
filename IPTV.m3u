@@ -1,118 +1,75 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1 (720p) [Not 24/7]
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentary",La 2 (1080p) [Not 24/7]
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="General",Antena 3 (720p)
 http://185.189.225.150:85/Antena3HD/index.m3u8
-
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="Undefined",Telecinco (720p)
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
-
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Entertainment",La Sexta (720p)
 http://185.189.225.150:85/LaSexta/index.m3u8
-
 #EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="Undefined",Telemadrid (720p)
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-
 #EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="General",LaOtra (720p)
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
-
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Sports",Teledeporte (1080p) [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
-
 #EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Entertainment",Mega (Spain) (576p)
 http://185.189.225.150:85/mega/index.m3u8
-
 #EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://i.imgur.com/D1pUrGC.png" group-title="Entertainment",Neox (576p)
 http://185.189.225.150:85/neox/index.m3u8
-
 #EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://i.imgur.com/F1NdbpE.png" group-title="Entertainment",Factoria de Ficcion (1080p)
 http://185.189.225.150:85/fdf/index.m3u8
-
 #EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC (Spain) (720p)
 http://vegafibratv.com:8085/AMC/index.m3u8
-
 #EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network (Spain) (720p)
 http://185.189.225.150:85/Paramount/index.m3u8
-
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (Spain) (576p)
 http://185.189.225.150:85/nickelodeon/index.m3u8
-
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids",Boing
 http://185.189.225.150:85/boing/index.m3u8
-
 #EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE (1080p) [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
-
 #EXTINF:-1 tvg-id="EquipodeInvestigacion.es" tvg-logo="https://i.imgur.com/3heVUcv.png" group-title="Documentary",Equipo de Investigacion (1080p)
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
-
 #EXTINF:-1 tvg-id="TelevisiondeGalicia.es" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="General",TVG (720p)
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
-
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Dance",Loca FM Dance
 https://s2.we4stream.com/listen/loca_dance/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Remember",Loca FM Remember
 https://s2.we4stream.com/listen/loca_remember/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Hard",Loca FM Hard
 https://s2.we4stream.com/listen/loca_hard/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM House",Loca FM House
 https://s2.we4stream.com/listen/loca_house/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Chill Out",Loca FM Chill Out
 https://s2.we4stream.com/listen/loca_chill_out/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Tech House",Loca FM Tech House
 https://s2.we4stream.com/listen/loca_tech_house/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Trance",Loca FM Trance
 https://s2.we4stream.com/listen/loca_trance/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Techno",Loca FM Techno
 https://s2.we4stream.com/listen/loca_techo/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Big Room",Loca FM Big Room
 https://s2.we4stream.com/listen/loca_big_room/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Deep House",Loca FM Deep House
 https://s2.we4stream.com/listen/loca_deep_house/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Sessions",Loca FM Sessions
 https://s2.we4stream.com/listen/loca_sessions/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Ambient",Loca FM Ambient
 https://s2.we4stream.com/listen/loca_ambient/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Loca 80's",Loca FM Loca 80's
 https://s2.we4stream.com/listen/loca_80s/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Loca 90's",Loca FM Loca 90's
 https://s2.we4stream.com/listen/loca_90s_/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Melodic House",Loca FM Melodic House
 https://s2.we4stream.com/listen/loca_melodic_house/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Melodic Techno",Loca FM Melodic Techno
 https://s2.we4stream.com/listen/loca_melodic_techno/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Hard Techno",Loca FM Hard Techno
 https://s2.we4stream.com/listen/loca_hard_techno/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Industrial",Loca FM Industrial
 https://s2.we4stream.com/listen/loca_industrial/live
-
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Loca FM Drum&Bass",Loca FM Drum&Bass
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
-
-
-
-
-
